@@ -1,0 +1,11 @@
+scikit-learn==1.4.0
+scikit-plot
+numpy
+seaborn
+matplotlib
+plotly
+pandas
+streamlit
+statsmodels
+yellowbrick
+xgboost

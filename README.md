@@ -50,4 +50,8 @@ To set up this project on your local machine, follow these steps:
 
 * Specify the port {--server.port} when ports are blocking by firewall app.
 
+## Bonus task (Optional): Retention Incentive Generation using Pre-trained LLM.
+
+- Please reffer "./../notebook/gpt3_telco_churn.ipynb" for the OpenAI model="gpt-3.5-turbo-instruct" base python code generation.
+
 ![Alt Text](streamlit-app.gif)

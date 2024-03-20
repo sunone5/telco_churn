@@ -18,21 +18,20 @@ Key features:
 - An environment management tool such as virtualenv, pipenv, venv, virtualend, conda.
 
     ### Python virtual environment set-up 
-    - Method
+    - #### Method
     - -----------------------------
-    - python -m virtualenv --version
-    - virtualenv --version
+    - python -m virtualenv --version    
     - virtualenv venv
-    - .\venv\scripts\activate   
-    - pip --version
-    - python --version
+    - .\venv\scripts\activate
+    
+    - #### Install Jupyterlab    
     - pip install jupyterlab
     - python -m pip install --upgrade pip
     - pip --version
     - Deactivate when needed
       - .\venv\scripts\deactivate
 
-    - Run JupyterLab 
+    - #### Run JupyterLab 
     - jupyter lab
 
 ## Installation

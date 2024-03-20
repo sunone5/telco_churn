@@ -7,7 +7,7 @@ Welcome to our Customer Churn Prediction project! In this end-to-end project, I'
 Key features:
 - Comprehensive data analysis and preprocessing
 - Machine learning model training for customer churn prediction
-- MLOps integration for seamless model deployment
+- Expose the REST API as a Streamlit App for predictions
 - Insights and recommendations for customer retention strategies
 
 ## Prerequisite:
